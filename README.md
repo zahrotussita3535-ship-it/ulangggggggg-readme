@@ -1,7 +1,7 @@
 # Halo semua, saya [Nama Kamu]! 👋
 
 <p align="center">
-  <img src="https://https://github.com/zahrotussita3535-ship-it/ulangggggggg-readme/blob/33a19a1cafba6ea3456565c8c77488d09bf5386b/IMG-20260606-WA0001.jpg" width="200" style="border-radius: 50%;" alt="Foto Profil">
+  <img src="https://github.com/zahrotussita3535-ship-it/ulangggggggg-readme/blob/33a19a1cafba6ea3456565c8c77488d09bf5386b/IMG-20260606-WA0001.jpg" width="200" style="border-radius: 50%;" alt="Foto Profil">
 </p>
 
 ### 💫 Tentang Saya
